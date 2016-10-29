@@ -1,0 +1,9 @@
+Quellen
+
+https://continuousdelivery.com
+https://en.wikipedia.org/wiki/Continuous_delivery
+https://de.wikipedia.org/wiki/Continuous_Delivery
+https://www.heise.de/developer/artikel/Eine-Einfuehrung-in-Continuous-Delivery-Teil-1-Grundlagen-2176380.html
+https://www.codecentric.de/leistungen/loesungen/bauen-sie-erfolgreiche-software/continuous-delivery/
+https://de.atlassian.com/continuous-delivery/business-case-for-continuous-delivery
+https://www.informatik-aktuell.de/entwicklung/methoden/devops-in-der-praxis-von-continuous-integration-zu-continuous-delivery.html
